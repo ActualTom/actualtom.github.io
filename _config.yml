@@ -116,7 +116,7 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Publications</strong>: Through both my work in VetSec and in Cloud Range, I've been fortunate enough to have been published in numerous locations.  Below is a summary of articles:
+   <strong>Publications</strong>: Through both my work in VetSec and in Cloud Range, I've been fortunate enough to have been published in numerous locations.  Below is a summary of articles:<br/><br/>
    <a href="https://thecyberwire.com/stories/8a7a02340ab34a13b672a6c41c3b8b45/us-federal-shutdown-averted-or-postponed-effects-on-cybersecurity">US Federal shutdown averted (or postponed): effects on cybersecurity</a> : September 20th, 2023<br/><br/>
    <a href="https://www.darkreading.com/operations/fortinet-announces-formation-of-veterans-program-advisory-council-to-narrow-the-cybersecurity-skills-gap-with-military-veteran-talent">Fortinet Announces Formation of Veterans Program Advisory Council to Narrow the Cybersecurity Skills Gap With Military Veteran Talent</a> : September 27th, 2023<br/><br/>
    <a href="https://thecyberwire.com/stories/25688d912ff747d9bc0f966a8be11648/university-of-michigan-overcomes-cyberattack-that-delayed-the-academic-year">University of Michigan overcomes cyberattack that delayed the academic year</a> :  August 30th, 2023<br/><br/>
@@ -126,7 +126,7 @@ additionalinfo: |
    <a href="https://www.bnnbloomberg.ca/a-zero-day-flaw-in-hacked-moveit-software-was-exposed-on-twitter-1.1935113">A Zero-Day Flaw in Hacked MOVEit Software Was Exposed on Twitter</a> : June 19th, 2023<br/><br/>
    <a href="http://web.archive.org/web/20230616184225/https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/russian-cl0p-operatives-hit-u-s-federal-agencies-in-widespread-cyberattack/">Russian Cl0p Operatives Hit U.S. Federal Agencies in Widespread Cyberattack</a> : June 16th, 2023<br/><br/>
    <a href="https://www.isssource.com/moveit-breaches-growing/">MOVEit Breaches Growing</a> : June 16th, 2023<br/><br/>
-   <a href="https://industrialcyber.co/news/us-government-agencies-struck-by-cyber-attack-as-clop-hackers-likely-exploited-moveit-software-vulnerability/">US government agencies struck by cyber attack, as Clop hackers likely exploited MOVEit software vulnerability</a> : June 16th, 2023
-   <a href="https://www.utilitydive.com/news/doe-among-federal-agencies-hit-by-possible-russian-cyberattack/653216/">DOE among federal agencies hit by possible Russian cyberattack</a> : June 16th, 2023
+   <a href="https://industrialcyber.co/news/us-government-agencies-struck-by-cyber-attack-as-clop-hackers-likely-exploited-moveit-software-vulnerability/">US government agencies struck by cyber attack, as Clop hackers likely exploited MOVEit software vulnerability</a> : June 16th, 2023<br/><br/>
+   <a href="https://www.utilitydive.com/news/doe-among-federal-agencies-hit-by-possible-russian-cyberattack/653216/">DOE among federal agencies hit by possible Russian cyberattack</a> : June 16th, 2023<br/><br/>
    <br/>
    <strong>Skills</strong>: I have a good knowledge of application life-cycle management. I have built range networks from the ground up, directly influencing the UI/UX and experience, as well as the architecture, on Google Cloud and VMWare.  As I stated above, I enjoy seeing the bigger picture, communicating across the various business units, creating order out of chaos, and getting stuff done.  Thanks for tuning in and checking this out!

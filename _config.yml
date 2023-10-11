@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Thomas Marsland
+twitter_username: tmarsland
+name: Thomas Marsland
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,7 @@ primarylinks:
  - title: Blog
    url: https://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/ActualTom
  - title: StackOverflow
    url: https://stackoverflow.com/users/258813/rhinds
  - title: DZone
@@ -24,19 +24,19 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
+ - Strategic Planning & Implementation
+ - Resource Allocation & Optimization
+ - Process Improvement Initiatives
+ - Project & Program Management
+ - Stakeholder Relationship Management
+ - Problem Solving & Crisis Management
+ - Implementation Strategies
+ - Sraff Training & Development
+ - Advanced Technology Research
+ - Collaborative Approach
+ - IT Operations Leadership
+ - VMWare Architecture
+ - Google Cloud
  - Technical Architecture
  - Machine learning
 
@@ -45,33 +45,32 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: VP of Technology & Technical Services
+   start: 2022
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
-
+   employer: Cloud Range
+   description: Instrumental in leading technical operations for a start-up company that provides training to a wide range of clients on Digital Forensics and cybersecurity incident response.  Oversee all range virtualization infrastructure, network access, identity management, technical pre-sales, learning management system, and cybersecurity learning content development.  Supervise seven direct reports along with a technical team, assess performance, identify skill gaps, evaluate training needs, and conduct training sessions to improve productivity and efficiency.
+ - title: Board Chairman
+   start: 2020
+   end: Ongoing
+   employer: VetSec
+   description: VetSec is a 501c3 non-profit that seeks to create a world where no veteran pursuing a career in cybersecurity goes unemployed. As the CEO and Board Chairman, I worked to develop a long-term mentorship program, formalized the annual get-together into a cybersecurity conference (VetSecCon), raised the membership from ~1,800 to over 6,600, and worked with a large number of companies to provide funding, training, discounts, and employment for veterans.
+ - title: Senior Program Manager
+   start: 2001
+   end: 2023
+   employer: US Navy
+   description: I served in numerous roles in my 22 years in the United States Navy, most recently as a Senior Program Manager - providing oversight to three nuclear powered submarines and their enginerooms.  Previously, as an IT Director, I administered three networks of varying classifications for 500 staff and over 3000 students, while supervising a team of five for the Navy Nuclear Power Training Command.
+ 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Master of Science (M.S.)
+   date: 2022
+   subject: Cybersecurity
+   school: University of Charleston
+ - level: Bachelor of Science (B.S.)
+   date: 2016
+   subject: Information Technology - Security Emphasis
+   school: Western Governors University
 
 #This section is optional (as is the image link below)
 coursera:

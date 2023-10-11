@@ -10,17 +10,17 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+   url: https://medium.com/@tmarsland_13763
  - title: GitHub
    url: https://github.com/ActualTom
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+# - title: StackOverflow
+#   url: https://stackoverflow.com/users/258813/rhinds
+# - title: DZone
+#   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+   url: https://www.linkedin.com/in/thomas-marsland
+ - title: VetSec
+   url: https://www.veteransec.org/
 
 #Any buzzword skills you want to include
 skills:
@@ -41,7 +41,7 @@ skills:
  - Machine learning
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+blogfeed: https://medium.com/@tmarsland_13763
 
 #Work experience is required
 roles:
@@ -116,12 +116,17 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>Publications</strong>: Through both my work in VetSec and in Cloud Range, I've been fortunate enough to have been published in numerous locations.  Below is a summary of articles:
+   <a href="https://thecyberwire.com/stories/8a7a02340ab34a13b672a6c41c3b8b45/us-federal-shutdown-averted-or-postponed-effects-on-cybersecurity">US Federal shutdown averted (or postponed): effects on cybersecurity</a> : September 20th, 2023<br/><br/>
+   <a href="https://www.darkreading.com/operations/fortinet-announces-formation-of-veterans-program-advisory-council-to-narrow-the-cybersecurity-skills-gap-with-military-veteran-talent">Fortinet Announces Formation of Veterans Program Advisory Council to Narrow the Cybersecurity Skills Gap With Military Veteran Talent</a> : September 27th, 2023<br/><br/>
+   <a href="https://thecyberwire.com/stories/25688d912ff747d9bc0f966a8be11648/university-of-michigan-overcomes-cyberattack-that-delayed-the-academic-year">University of Michigan overcomes cyberattack that delayed the academic year</a> :  August 30th, 2023<br/><br/>
+   <a href="https://thecyberwire.com/stories/52fd882ae7f243e1a7f0aa6943f2b41a/patch-tuesday-retrospective-july-2023">Patch Tuesday retrospective: July 2023</a> : July 13th, 2023<br/><br/>
+   <a href="https://www.esecurityplanet.com/threats/romcom-exploit/">Microsoft Patch Tuesday Addresses 130 Flaws - Including Unpatched RomCom Exploit</a> : July 12th, 2023<br/><br/>
+   <a href="https://www.smartindustry.com/benefits-of-transformation/cybersecurity/blog/33006957/toughen-up-the-value-of-a-robust-vulnerabilitymanagement-program">Toughen up! The value of a robust vulnerability-management program</a> : June 21st, 2023<br/><br/>
+   <a href="https://www.bnnbloomberg.ca/a-zero-day-flaw-in-hacked-moveit-software-was-exposed-on-twitter-1.1935113">A Zero-Day Flaw in Hacked MOVEit Software Was Exposed on Twitter</a> : June 19th, 2023<br/><br/>
+   <a href="http://web.archive.org/web/20230616184225/https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/russian-cl0p-operatives-hit-u-s-federal-agencies-in-widespread-cyberattack/">Russian Cl0p Operatives Hit U.S. Federal Agencies in Widespread Cyberattack</a> : June 16th, 2023<br/><br/>
+   <a href="https://www.isssource.com/moveit-breaches-growing/">MOVEit Breaches Growing</a> : June 16th, 2023<br/><br/>
+   <a href="https://industrialcyber.co/news/us-government-agencies-struck-by-cyber-attack-as-clop-hackers-likely-exploited-moveit-software-vulnerability/">US government agencies struck by cyber attack, as Clop hackers likely exploited MOVEit software vulnerability</a> : June 16th, 2023
+   <a href="https://www.utilitydive.com/news/doe-among-federal-agencies-hit-by-possible-russian-cyberattack/653216/">DOE among federal agencies hit by possible Russian cyberattack</a> : June 16th, 2023
+   <br/>
+   <strong>Skills</strong>: I have a good knowledge of application life-cycle management. I have built range networks from the ground up, directly influencing the UI/UX and experience, as well as the architecture, on Google Cloud and VMWare.  As I stated above, I enjoy seeing the bigger picture, communicating across the various business units, creating order out of chaos, and getting stuff done.  Thanks for tuning in and checking this out!

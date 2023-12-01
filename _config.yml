@@ -117,6 +117,7 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Publications</strong>: Through both my work in VetSec and in Cloud Range, I've been fortunate enough to have been published in numerous locations.  Below is a summary of articles:<br/><br/>
+   <a href="https://itnerd.blog/2023/12/01/north-texas-municipal-water-district-pwned-in-a-ransomware-attack/">North Texas Municipal Water District Pwned In A Ransomware Attack</a> : December 1, 2023<br/><br/>
    <a href="https://vmblog.com/archive/2023/10/18/cloud-range-2024-predictions-the-evolution-of-cybersecurity-in-2024-a-shift-towards-human-centric-defense.aspx">The Evolution of Cybersecurity in 2024 - A Shift Towards Human-Centric Defense</a> : October 28th, 2024<br/><br/>
    <a href="https://thecyberwire.com/stories/396cc81c68d048b8b472b84bbae665c5/improving-security-for-open-source-ics-software">Improving security for open-source ICS software</a> : October 13th, 2023<br/><br/>
    <a href="https://thecyberwire.com/stories/8a7a02340ab34a13b672a6c41c3b8b45/us-federal-shutdown-averted-or-postponed-effects-on-cybersecurity">US Federal shutdown averted (or postponed): effects on cybersecurity</a> : September 20th, 2023<br/><br/>

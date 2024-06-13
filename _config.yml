@@ -21,6 +21,8 @@ primarylinks:
    url: https://www.linkedin.com/in/thomas-marsland
  - title: VetSec
    url: https://www.veteransec.org/
+ - title: Unveiling the NIST Risk Management Framework (RMF): A practical guide to implementing RMF and managing risks in your organization
+   url: https://www.amazon.com/Unveiling-NIST-Risk-Management-Framework/dp/1835089844/
 
 #Any buzzword skills you want to include
 skills:
@@ -110,13 +112,18 @@ github:
   # flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am a technology leader with over 20 years experience. I have worked in a variety of roles, from working on an IT Helpdesk to managing one, to working as a network architect and systems administrator. I worked in the US Navy as a Director of IT for a schoolhouse that served over 3,500 combined staff and students, and currently am the VP of Technology for Cloud Range, a cybersecurity company that provides realistic live-fire attack scenarios on our own customizable cyber ranges.<br/><br/>
+  I am a technology leader and accomplished author with over 20 years experience. I have worked in a variety of roles, from working on an IT Helpdesk to managing one, to working as a network architect and systems administrator. I worked in the US Navy as a Director of IT for a schoolhouse that served over 3,500 combined staff and students, and currently am the VP of Technology for Cloud Range, a cybersecurity company that provides realistic live-fire attack scenarios on our own customizable cyber ranges.<br/><br/>
   I enjoy building not only with technology, like cyber ranges, but I really enjoy building processes that work - bringing order to chaos, and establishing 'systems' and programs.  I see the bigger picture, communicate across cross-functional teams, and "get stuff done."  I focus on first-time quality while also meeting the business needs on time.<br/><br/>
   In my free time, I enjoy time with my family, taking care of our acreage and home, and backpacking throughout the wilderness of the Pacific Northwest.  I currently work as the VP of Technology for Cloud Range, where we train teams globally on cybersecurity incident response, as well as the Board Chair for VetSec, a 501c3 that works to help veterans find meaningful employment in cybersecurity.  At Cloud Range, I am instrumental in leading technical operations for a start-up company that provides training to a wide range of clients on Digital Forensics and cybersecurity incident response.  Oversee all range virtualization infrastructure, network access, identity management, technical pre-sales, learning management system, and cybersecurity learning content development.  I supervise seven direct reports along with a technical team, assess performance, identify skill gaps, evaluate training needs, and conduct training sessions to improve productivity and efficiency.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Publications</strong>: Through both my work in VetSec and in Cloud Range, I've been fortunate enough to have been published in numerous locations.  Below is a summary of articles:<br/><br/>
+   <a href="https://www.darkreading.com/vulnerabilities-threats/microsoft-late-dangerous-dnssec-zero-day-flaw">Microsoft Late to the Game on Dangerous DNSSEC Zero-Day Flaw</a> : June 13th, 2024<br/><br/>
+   <a href="https://www.computerweekly.com/news/366588458/RCE-flaw-and-DNS-zero-day-top-list-of-Patch-Tuesday-bugs">RCE flaw and DNS zero-day top list of Patch Tuesday bugs | Computer Weekly</a> : June 12th, 2024<br/><br/>
+   <a href="https://itnerd.blog/2024/06/11/today-is-patch-tuesday-its-patching-time/">Today Is Patch Tuesday.... It's Patching Time!</a> : June 11th, 2024<br/><br/>
+   <a href="https://itnerd.blog/2024/05/22/epa-issues-enforcement-alert-for-water-systems-in-the-us/?amp=1">EPA Issues Enforcement Alert For Water Systems In The US</a> : May 22nd, 2024<br/><br/>
+   <a href="https://itnerd.blog/2024/05/15/breachforums-has-been-pwned-by-the-fbi/">BreachForums Has Been Pwned By The FBI</a> : May 15th, 2024<br/><br/>
    <a href="https://www.industryweek.com/technology-and-iiot/cybersecurity/article/55001720/att-confirms-breach-of-73-million-customers-data">AT&T Confirms Breach of 73 Million Customers' Data</a> : April 2nd, 2024<br/><br/>
    <a href="https://www.industryweek.com/technology-and-iiot/cybersecurity/article/21283123/international-cybersecurity-operation-takes-down-russian-cybercriminal-gang">International Cybersecurity Operation Takes Down Russian Cybercriminal Gang</a> : February 20th, 2024<br/><br/>
    <a href="https://industrialcyber.co/utilities-energy-power-water-waste/veolia-north-america-and-southern-water-hit-by-ransomware-attacks-data-breach-concerns-arise/">Veolia North America and Southern Water hit by ransomware attacks, data breach concerns arise</a> : January 25th, 2024<br/><br/>

@@ -47,6 +47,11 @@ blogfeed: https://medium.com/@tmarsland_13763
 
 #Work experience is required
 roles:
+ - title: Author
+   start: 2024
+   end: Ongoing
+   employer: Packt Publishing
+   description: I wrote 'Unveiling the NIST Risk Management Framework (RMF) - A practical guide to implementing RMF and managing risks in your organization'.
  - title: VP of Technology & Technical Services
    start: 2022
    end: Ongoing
@@ -119,6 +124,7 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Publications</strong>: Through both my work in VetSec and in Cloud Range, I've been fortunate enough to have been published in numerous locations.  Below is a summary of articles:<br/><br/>
+   <a href="https://github.com/ActualTom/actualtom.github.io/blob/master/gijobs_0624.pdf">I was named as a 2024 Veteran Champion of the Year in Corporate America by G.I. Jobs - see page 26</a> : June 13th, 2024<br/><br/>
    <a href="https://www.darkreading.com/vulnerabilities-threats/microsoft-late-dangerous-dnssec-zero-day-flaw">Microsoft Late to the Game on Dangerous DNSSEC Zero-Day Flaw</a> : June 13th, 2024<br/><br/>
    <a href="https://www.computerweekly.com/news/366588458/RCE-flaw-and-DNS-zero-day-top-list-of-Patch-Tuesday-bugs">RCE flaw and DNS zero-day top list of Patch Tuesday bugs | Computer Weekly</a> : June 12th, 2024<br/><br/>
    <a href="https://itnerd.blog/2024/06/11/today-is-patch-tuesday-its-patching-time/">Today Is Patch Tuesday.... It's Patching Time!</a> : June 11th, 2024<br/><br/>

@@ -52,9 +52,14 @@ roles:
    end: Ongoing
    employer: Packt Publishing
    description: I wrote 'Unveiling the NIST Risk Management Framework (RMF) - A practical guide to implementing RMF and managing risks in your organization'.
+ - title: Senior Director of Security Operations
+   start: 2025
+   end: Ongoing
+   employer: DigiCert
+   description: I lead DigiCert's DDoS and Application Security customer provisioning and Security Operations Center (SOC) teams, ensuring the integrity and availability of our customer's applications and networks. I am responsible for team structure, maintaining 24 x 7 x 365 coverage, developing and evolving team member expertise, implementing tools, tracking KPIs, reporting, and management to customer SLAs. I am also responsible for all aspects of customer service including improving overall customer satisfaction, escalation management, root cause analysis, and conflict resolution. As a senior leader in the business, I represent security operations working cross organizationally with peers in engineering, operations, and go to market teams.
  - title: VP of Technology & Technical Services
    start: 2022
-   end: Ongoing
+   end: 2025
    employer: Cloud Range
    description: Instrumental in leading technical operations for a start-up company that provides training to a wide range of clients on Digital Forensics and cybersecurity incident response.  Oversee all range virtualization infrastructure, network access, identity management, technical pre-sales, learning management system, and cybersecurity learning content development.  Supervise seven direct reports along with a technical team, assess performance, identify skill gaps, evaluate training needs, and conduct training sessions to improve productivity and efficiency.
  - title: Board Chairman
@@ -124,6 +129,18 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Publications</strong>: Through both my work in VetSec and in Cloud Range, I've been fortunate enough to have been published in numerous locations.  Below is a summary of articles:<br/><br/>
+   <a href="https://vmblog.com/archive/2025/01/10/top-tech-leaders-share-2025-video-predictions-vmblog-series-episode-5.aspx">Top Tech Leaders Share 2025 Video Predictions</a> : January 10th, 2025<br/><br/>
+   <a href="https://www.manufacturing.net/cybersecurity/video/22925050/security-breach-the-little-things-that-kill">Security Breach: The Little Things That Kill</a> : October 31st, 2024<br/><br/>
+   <a href="https://evrimagaci.org/tpg/american-water-cyberattack-exposes-vulnerabilities-45918">American Water Cyberattack Exposes Vulnerabilities</a> : October 14th, 2024<br/><br/>
+   <a href="https://industrialcyber.co/features/balancing-challenges-of-building-effective-ot-cybersecurity-teams-across-ot-ics-environments/">Balancing challenges of building effective OT cybersecurity teams across OT/ICS environments</a> : September 29th, 2024<br/><br/>
+   <a href="https://industrialcyber.co/critical-infrastructure/china-linked-hackers-allegedly-target-us-internet-services-in-salt-typhoon-attack/">China-linked hackers allegedly target US internet services in Salt Typhoon attack</a> : September 26th<br/><br/>
+   <a href="https://itnerd.blog/2024/09/19/cisas-releases-election-security-checklist-ahead-of-november-elections-in-the-us/">CISA Releases Election Security Checklist Ahead of November Elecxtions In The US/a> : September 19th, 2024<br/><br/>
+   <a href="https://www.isssource.com/cyberattack-at-chip-maker-disrupts-operations/">Cyberattack At Chip Maker Disrupts Operations</a> : August 21st, 2024<br/><br/>
+   <a href="https://itnerd.blog/2024/08/15/dnc-dealing-with-a-potential-data-leak-just-days-before-their-convention/">DNC Dealing With a Potential Data Leak Just Days Before Their Convention</a> : August 15th, 2024<br/><br/>
+   <a href="https://www.theepochtimes.com/article/after-crowdstrike-outage-companies-and-governments-reassess-risks-of-using-cloud-5692439?cmt=1">After CrowdStrike Outage, Companies and Goverments Reassess Risks of Using Cloud</a> : July 25th, 2024<br/><br/>
+   <a href="https://www.darkreading.com/application-security/fallout-from-faulty-friday-crowdstrike-update-persists">Fallout From Faulty Friday CrowdStrike Update Persists</a> : July 22nd, 2024<br/><br/>
+   <a href="https://www.cybersecuritydive.com/news/crowdstrike-error-reputation-damage/721989/">CrowdStrike's unforced error puts its reputation on the line</a> : July 22nd, 2024<br/><br/>
+   <a href="https://itnerd.blog/2024/07/19/the-challenge-of-fixing-computers-affected-by-the-crowdstrike-bug-is-going-to-be-massive/">The Challenge of Fixing Computers Affected by the Crowdstrike Bug is Going to Be Massive</a> : July 19th, 2024<br/><br/>
    <a href="https://www.industryweek.com/technology-and-iiot/article/55126161/cybercriminals-steal-data-from-109-million-att-customers">Cybercriminals Steal Data from 109 Million AT&T Customers</a> : July 16th, 2024<br/><br/>
    <a href="https://securitybrief.com.au/story/microsoft-s-july-2024-patch-tuesday-fixes-142-vulnerabilities-experts-weigh-in">Microsoft's July 2024 Patch Tuesday fixes 142 vulnerabilities, experts weigh in</a> : July 11th, 2024<br/><br/>
    <a href="https://itbrief.asia/story/microsoft-s-july-2024-patch-tuesday-fixes-142-vulnerabilities-experts-weigh-in">Microsoft's July 2024 Patch Tuesday fixes 142 vulnerabilities, experts weigh in</a> : July 11th, 2024<br/><br/>
